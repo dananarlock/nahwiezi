@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chiesheiqu.dnd-player.com/sitemap.xml
